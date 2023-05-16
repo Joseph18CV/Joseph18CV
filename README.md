@@ -48,7 +48,6 @@
 <br>
 <br>
 <br>
-<img align="center" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joseph18CV&layout=compact&langs_count=7&theme=github_dark"/>
 <br>
 <br>
 <br>
