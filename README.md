@@ -1,19 +1,16 @@
-<h1> Hey, World! ✌🏾😎
-
-<!-- <img align="right" width="10%" src="https://github.com/MaikolSantos/image/blob/main/standard.gif?raw=true"> </h1> -->
+<h1> Hello, World! 
 
 <br>
 
 <h2> 📑 About me </h2>
 
-* <p> 🌱 I’m currently learning: <strong>Python, Django, SQL</strong></p>
-* <p> 🎯 My current goal: <strong>Full Stack Developer</strong></p>
-* <p> 📫 How to reach me: <strong>maikol.lourencon@gmail.com</strong></p>
-* <p> 💙 I <strong>love</strong> helping people starting out in the web development world.</p>
+   <p> * 🤘🏻 I'm Joseph, I'm 19 years old! </p>
+   <p> * 💻 Currently studying programming at <strong>Kenzie Academy Brazil</strong>! </p>
+   <p> * 📫 How to reach me: <strong>josephvriesman16@gmail.com</strong> </p>
 
 <br>
 
-<h2> 💪🏾 Hard Skills  </h2>
+<h2> 💪🏻 Hard Skills  </h2>
 
 <div style="display: inline_block">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +27,7 @@
 
 <h2> 🌐 Social Networks </h2>
 
-<a href="https://www.linkedin.com/in/maikol-lourencon/" target="_blank">
+<a href="https://www.linkedin.com/in/joseph-cardoso-vriesman-711103246/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!-- <a href="https://instagram.com/maikol.sants/" target="_blank">
@@ -39,7 +36,7 @@
 <!--   <a href="https://www.facebook.com/sants.maikol/" target="_blank">
  <img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white">
 </a> -->
-<a href = "mailto:maikol.lourencon@gmail.com">
+<a href = "mailto:josephvriesman16@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
