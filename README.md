@@ -32,7 +32,7 @@
 
 <h2> 🌐 Social Networks </h2>
 
-<a href="https://www.linkedin.com/in/joseph-cardoso-vriesman-711103246/" target="_blank">
+<a href="https://www.linkedin.com/in/josephvriesman/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br>
