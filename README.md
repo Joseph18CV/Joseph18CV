@@ -13,10 +13,10 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/Joseph18CV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseph18CV&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisilva19&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseph18CV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph18CV&layout=compact&langs_count=8&theme=dark"/>
 </div> 
 
 <br>
@@ -43,7 +43,6 @@
 <a href="https://www.linkedin.com/in/josephvriesman/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<br>
 <a href ="mailto:josephvriesman16@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
