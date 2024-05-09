@@ -8,7 +8,7 @@
 
 * <p> 🤘 I’m <strong>Joseph Vriesman</strong>, I'm <strong>19</strong> years old!</p>
 * <p> 💻 Currently studying programming </p>
-* <p> 🎯 <strong>Full Stack Developer</strong></p>
+* <p> 🎯 <strong>Back-End Developer</strong></p>
 * <p> 📫 How to reach me: <strong>josephvriesman16@gmail.com</strong></p>
 
 <br>
