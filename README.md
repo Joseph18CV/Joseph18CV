@@ -14,7 +14,6 @@
 <br>
 
 <div>
-  <a href="https://github.com/Joseph18CV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseph18CV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph18CV&layout=compact&langs_count=8&theme=dark"/>
 </div> 
@@ -40,12 +39,9 @@
 
 <h2> 🌐 Social Networks </h2>
 
-<a href="https://www.linkedin.com/in/josephvriesman/" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href ="mailto:josephvriesman16@gmail.com">
- <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephvriesman/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephvriesman16@gmail.com)
+
 <br>
 <br>
     <img src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif"/>
